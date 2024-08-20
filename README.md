@@ -1,0 +1,1 @@
+This is a portfolio website which is made up of the famous front-end technologies. This website describes about my profound skills, certifications, internship experience, educational background and other relevant and applicable details which gives an idea about me and my skills for an employer
